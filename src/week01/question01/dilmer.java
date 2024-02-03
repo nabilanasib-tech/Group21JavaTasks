@@ -6,6 +6,7 @@ public class dilmer {
 
 
 
+
     }
 
     public static boolean isEvenNumber(int num){
