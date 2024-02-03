@@ -46,6 +46,8 @@ public class dilmer {
         return answer;
     }
 
+
+
     public static int divideWithoutOperator(int dividend, int divisor) {
         // Check for division by zero
         if (divisor == 0) {
@@ -68,6 +70,8 @@ public class dilmer {
             absDividend -= absDivisor;
             quotient++;
         }
+
+
 
         // Apply the sign to the result
         quotient *= sign;
