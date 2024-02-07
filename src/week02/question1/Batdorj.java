@@ -7,6 +7,7 @@ public class Batdorj {
         int x = 4,
                 y = 10;
 
+        //using arithmetic operations to swap the values
         x = x + y;
         y = x - y;
         x = x - y;
