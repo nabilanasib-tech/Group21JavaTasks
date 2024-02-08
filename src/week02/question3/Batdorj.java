@@ -1,4 +1,4 @@
-package week02.question2;
+package week02.question3;
 
 public class Batdorj {
 
@@ -27,4 +27,5 @@ public class Batdorj {
         }
         System.out.println();
     }
+
 }
