@@ -5,6 +5,8 @@ public class Dilmer {
     // someth'ng
 
 
+    public static void main(String[] args) {
 
 
+    }
 }
