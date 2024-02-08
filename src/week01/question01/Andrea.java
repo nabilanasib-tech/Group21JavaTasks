@@ -9,6 +9,7 @@ public class Andrea {
         evenOrOdd(6);
         System.out.println(isEven(23));
         System.out.println(isEven(88));
+        //
     }
 
     public static void evenOrOdd(int num) {
