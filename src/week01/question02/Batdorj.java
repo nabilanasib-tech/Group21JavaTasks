@@ -7,6 +7,7 @@ public class Batdorj {
         if (divisor == 0) {
             throw new ArithmeticException("Cannot divide by zero");
         }
+        //new l'ne
 
         // Determine the sign of the result
         int sign = 1;
