@@ -14,5 +14,8 @@ public class Batdorj {
                 System.out.println(i + " is divisible by 15");
             }
         }
+
+
+
     }
 }
