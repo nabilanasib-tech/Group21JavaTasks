@@ -14,6 +14,7 @@ public class Andrea {
         System.out.println("b: " + b);
 
         System.out.println("---------------------");
+
         //using temp variable
 
         int x = 10, y = 20;
