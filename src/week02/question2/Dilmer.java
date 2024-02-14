@@ -24,8 +24,6 @@ public class Dilmer {
         System.out.println("Divisible by 3: " + by3);
 
 
-
-
     }
 }
 /*

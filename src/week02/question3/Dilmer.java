@@ -2,7 +2,6 @@ package week02.question3;
 
 public class Dilmer {
 
-
     public static void main(String[] args) {
         consecutiveNumbers(16);
         System.out.println("--------------");

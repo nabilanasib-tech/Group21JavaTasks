@@ -14,7 +14,6 @@ public class Dilmer {
         System.out.println("a " + a);
         System.out.println("b " + b);
 
-
     }
 
 }
