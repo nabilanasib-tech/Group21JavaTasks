@@ -12,7 +12,7 @@ public class Andrea {
 
             if (i % 15 == 0) {
                 by15 += i + " ";
-            } else if (i % 5 == 0) {q
+            } else if (i % 5 == 0) {
                 by5 += i + " ";
             } else if (i % 3 == 0) {
                 by3 += i + " ";
