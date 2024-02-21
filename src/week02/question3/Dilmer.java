@@ -26,7 +26,13 @@ public class Dilmer {
                 result += "Coders";
             }
 
-            System.out.println(result.isEmpty() ? i : result);
+          //  System.out.println(result.isEmpty() ? i : result); same as code below.
+
+            if (result.isEmpty()){
+                System.out.println(i);
+            }else {
+                System.out.println(result);
+            }
 
 
         }
