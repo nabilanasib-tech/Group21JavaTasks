@@ -1,45 +1,43 @@
 package week02.question3;
 
-public class Dilmer {
+public class Oleksandra {
 
-    public static void main(String[] args) {
-        consecutiveNumbers(16);
-        System.out.println("--------------");
-        consecutiveNumbers(30);
-    }
-
-    public static void consecutiveNumbers(int n){
-
-        for (int i = 1; i <= n ; i++) {
-
-            String result = "";
-
-            if(i % 2 == 0){
-                result += "Codility";
+    public static void printNumbers(int n){
+        for(int i = 1; i <=n; i++){
+            Object StringBuilder;
+            StringBuilder result = new StringBuilder();
+            if (i % 2 == 0){
+                result.append("Codibility");
+            }
+            if (i % 3 == 0){
+                result.append("Test");
+            }
+            if (i % 5 == 0) {
+                result.append("Coders");
             }
 
-            if(i % 3 == 0){
-                result += "Test";
+            if (i % 2 == 0 && i % 3 == 0 && i % 5 == 0){
+                result.append("CodibilityTestCoders");
             }
 
-            if(i % 5 == 0){
-                result += "Coders";
+            if(result.length()==0){
+               System.out.println(i);
+            }else{
+             System.out.println(result.toString());
             }
-
-          //  System.out.println(result.isEmpty() ? i : result); same as code below.
-
-            if (result.isEmpty()){
-                System.out.println(i);
-            }else {
-                System.out.println(result);
-            }
-
 
         }
-
     }
-}
-/*
+
+    public static void main(String[] args) {
+
+
+        printNumbers(24);
+    }
+    }
+
+
+  /*
 
            Numbers -- print consecutive numbers
 
@@ -65,3 +63,6 @@ public class Dilmer {
             17
             ....
    */
+
+
+
