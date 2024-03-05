@@ -8,6 +8,7 @@ public class dilmer {
         String str = "AAABBBCCCDEF";
         System.out.println(uniqueCharacter(str));
 
+
     }
     /*
     Write a return  method that can find the unique characters from the String
