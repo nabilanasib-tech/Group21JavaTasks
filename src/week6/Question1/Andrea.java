@@ -3,6 +3,7 @@ package week6.Question1;
 public class Andrea {
     public static void main(String[] args) {
         System.out.println(passwordValidation("Cydeo123!"));
+        System.out.println(passwordValidation("Password"));
     }
 
     public static boolean passwordValidation(String password){
@@ -26,7 +27,6 @@ public class Andrea {
             }
         }
         boolean isStrongPassword = hasAtLeast6Chars && hasUpperCase && hasLowerCase && hasSpecialChar && hasDigit;
-
         return isStrongPassword;
     }
 }
