@@ -22,7 +22,7 @@ public class Batdorj {
     }
 
     public static void main(String[] args) {
-        int[] numbers = { 99, 12, 23, 32, 44, 57, 6 };
+        int[] numbers = { 99, 12, 23, 32, 44, 57, 6, -99 };
 
         int minNumber = findMin(numbers);
         System.out.println("The minimum number in the array is: " + minNumber);
