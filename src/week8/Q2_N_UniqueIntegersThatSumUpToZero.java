@@ -2,7 +2,7 @@ package week8;
 
 import java.util.Arrays;
 
-public class Q2_NuniqueIntegersThatSumUpTo0 {
+public class Q2_N_UniqueIntegersThatSumUpToZero {
 
     public static void main(String[] args) {
         int N = 4;
