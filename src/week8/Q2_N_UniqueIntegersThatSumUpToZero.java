@@ -27,6 +27,7 @@ public class Q2_N_UniqueIntegersThatSumUpToZero {
 
         return arr;
     }
+
     /**
      * Array_NuniqueIntegersThatSumUpTo0
      * Write a function that, given an integer N (1 < N < 100), returns an array containing N unique integers that sum up to 0.
@@ -34,6 +35,7 @@ public class Q2_N_UniqueIntegersThatSumUpToZero {
      * The answer [1, -1, 1, 3] would be incorrect (because value 1 occurs twice).
      * For N = 3 one of the possible answers is [-1,0,1]  (but there are many more correct answers).
      */
+
 
     /*
     public static void main(String[] args) {

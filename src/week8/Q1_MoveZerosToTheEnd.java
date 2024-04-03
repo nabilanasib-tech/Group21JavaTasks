@@ -27,6 +27,7 @@ public class Q1_MoveZerosToTheEnd {
             }
         }
     }
+
     /**
      * 1# Array_MoveZerosToTheEnd
      * Write a method that can move all the zeros to last indexes of the array (Do Not Use Sort Method)
