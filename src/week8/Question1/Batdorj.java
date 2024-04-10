@@ -2,7 +2,7 @@ package week8.Question1;
 
 import java.util.Arrays;
 
-public class Q1_MoveZerosToTheEnd {
+public class Batdorj {
 
     public static void main(String[] args) {
 

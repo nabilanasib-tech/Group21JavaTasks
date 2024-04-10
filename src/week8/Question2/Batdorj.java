@@ -2,7 +2,7 @@ package week8.Question2;
 
 import java.util.Arrays;
 
-public class Q2_N_UniqueIntegersThatSumUpToZero {
+public class Batdorj {
 
     public static void main(String[] args) {
         int N = 4;
