@@ -1,4 +1,4 @@
-package week7.Q3_SortDescending;
+package week7.Question3;
 
 public class Batdorj {
 

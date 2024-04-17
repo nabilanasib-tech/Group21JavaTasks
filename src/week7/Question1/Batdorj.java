@@ -1,4 +1,4 @@
-package week7.Q1_FindMinimum;
+package week7.Question1;
 
 public class Batdorj {
 
